@@ -116,6 +116,8 @@ The analysis results are summarized as follows:
 
 ![Capture46](https://github.com/user-attachments/assets/738dd330-e5a3-4c64-bee7-44d68c74cece)
 
+![Capture48](https://github.com/user-attachments/assets/30a96bf1-8705-4a74-9018-2cd52e771c79)
+
 
 ### Recommendations
 Hybrid model can be implemented in this project to improve the model accuracy.
